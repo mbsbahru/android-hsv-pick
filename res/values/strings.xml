@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Hsv Color Pick</string>
+    <string name="ket_device_terpasang">Device Mounted</string>
+    <string name="ket_device">Device MOunted</string>
+	<string name="textH">H</string>
+	<string name="textS">S</string>
+	<string name="textV">V</string>
+	<string name="textED">ED</string>
+	<string name="textHor">Hor</string>
+	<string name="textExp">EW</string>
+    <string name="textTiang">T</string>
+	<string name="textMenu">::</string>
+</resources>
+
