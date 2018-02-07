@@ -1,2 +1,2 @@
 # HsvColorPick
-Picking Hue Saturation Value by Touching
+Picking Hue Saturation Value on Android by touching
