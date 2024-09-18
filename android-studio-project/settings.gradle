@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "hsv_touch_picker"
+include ':app'
+include ':opencv2'
+//def opencvsdk = '../OpenCV-android-sdk'
+//project(':opencv').projectDir = new File(opencvsdk + '/sdk')
+
